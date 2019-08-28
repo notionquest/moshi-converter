@@ -1,4 +1,4 @@
-package hello;
+package com.converter.hello;
 
 public class Greeter {
   public String sayHello() {

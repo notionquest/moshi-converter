@@ -1,0 +1,11 @@
+{
+  "operationName": "androidMyQuery",
+  "query": "query androidMyQuery .......",
+  "variables": {
+    "variables": {
+      "foo": 400,
+      "bar": 200,
+      "baz": "1970-01-01T00:00:00.000Z"
+    }
+  }
+}
